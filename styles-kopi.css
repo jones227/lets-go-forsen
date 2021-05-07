@@ -1,0 +1,60 @@
+@charset "UTF-8";
+/* CSS Document */
+@font-face { font-family: minecraft; src: url('minecraft_font.ttf'); } 
+h1 {
+color: #97fa50;
+font-family:minecraft;
+}
+#box2{
+max-width: 100%;
+top: 24.5%;
+left: 16%;
+position: absolute;
+}
+#box1 {
+position: absolute;
+padding-top: 10%;
+
+}
+#box3 {
+bottom: 56%;
+position: absolute;
+}
+#box4{
+padding-top: 25%
+}
+#box5{
+bottom: 32%;
+position: absolute;
+}
+#box6{
+top: 50%;
+left: 16%;
+position: absolute
+}
+#box7{
+bottom: 700%;
+posotion: absolute;
+}
+#box8{
+top: 89%;
+position: absolute;
+}
+#box9{
+top: 73%;
+left: 0.5%;
+position: absolute;
+}
+#box10{
+position: absolute;
+left: 16%;
+top: 71%
+}
+#box12{
+posistion: absolute;
+padding-top: 20%
+}
+#box14{
+position: absolute;
+right: 50%
+}
